@@ -24,6 +24,6 @@
 - [ ] Typescript
 - [ ] Python
 
-https://test-serverless-csharp.azurewebsites.net/api/RandomNumber?
-https://test-serverless-javascript.azurewebsites.net/api/RandomNumber?
-https://test-serverless-python.azurewebsites.net/api/RandomNumber?
+- https://test-serverless-csharp.azurewebsites.net/api/RandomNumber?max=
+- https://test-serverless-javascript.azurewebsites.net/api/RandomNumber?max=
+- https://test-serverless-python.azurewebsites.net/api/RandomNumber?max=
